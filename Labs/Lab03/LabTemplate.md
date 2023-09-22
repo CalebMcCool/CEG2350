@@ -1,13 +1,17 @@
 ## Lab 03
 
-- Name:
-- Email
+- Name: Caleb McCool
+- Email: mccool.11@wright.edu
 
 ## Part 1 Answers
 
-1. Verify here that input.txt made it to GitHub in your `Lab03` folder
-2.
-3.
+1. cd ceg2350-CalebMcCool
+   mkdir Lab03
+   cd Lab03
+   touch input.txt
+2. sort -n input.txt
+3. sort -n input.txt > output.txt
+  
 
 ## Script Usage Guide
 
